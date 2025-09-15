@@ -1,4 +1,4 @@
-# OOM
+# OOM Cases
 - DirectBufferOOM.java
 - GCOverheadOOM.java
 - HeapOOM.java
